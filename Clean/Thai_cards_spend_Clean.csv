@@ -1,0 +1,961 @@
+MeasureName,UsageType,MonthYear,M_Value,TransType
+volume_k,Cash withdrawal,JAN 2016,223.0,TH-Aboard
+volume_k,Cash advance,JAN 2016,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2016,1264.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2016,988.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2016,922.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2016,156.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2016,2315.0,TH-Aboard
+value_m,Cash advance,JAN 2016,38.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2016,6809.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2016,2533.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2016,1278.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2016,193.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2016,203.0,TH-Aboard
+volume_k,Cash advance,FEB 2016,3.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2016,1208.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2016,964.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2016,926.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2016,150.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2016,2197.0,TH-Aboard
+value_m,Cash advance,FEB 2016,37.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2016,6035.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2016,2385.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2016,1202.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2016,193.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2016,242.0,TH-Aboard
+volume_k,Cash advance,MAR 2016,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2016,1445.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2016,1085.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2016,1000.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2016,162.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2016,2502.0,TH-Aboard
+value_m,Cash advance,MAR 2016,42.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2016,7586.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2016,2830.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2016,1992.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2016,213.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2016,254.0,TH-Aboard
+volume_k,Cash advance,APR 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2016,1703.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2016,1059.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2016,952.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2016,147.0,TH-Aboard
+value_m,Cash withdrawal,APR 2016,2654.0,TH-Aboard
+value_m,Cash advance,APR 2016,51.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2016,10295.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2016,2637.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2016,1300.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2016,191.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2016,226.0,TH-Aboard
+volume_k,Cash advance,MAY 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2016,1625.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2016,1072.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2016,1027.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2016,153.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2016,2356.0,TH-Aboard
+value_m,Cash advance,MAY 2016,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2016,8774.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2016,2549.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2016,1792.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2016,213.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2016,223.0,TH-Aboard
+volume_k,Cash advance,JUN 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2016,1425.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2016,1162.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2016,1055.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2016,171.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2016,2341.0,TH-Aboard
+value_m,Cash advance,JUN 2016,46.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2016,7418.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2016,2430.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2016,1437.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2016,212.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2016,215.0,TH-Aboard
+volume_k,Cash advance,JUL 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2016,1490.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2016,1203.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2016,1060.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2016,172.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2016,2250.0,TH-Aboard
+value_m,Cash advance,JUL 2016,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2016,7788.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2016,2542.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2016,1419.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2016,218.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2016,204.0,TH-Aboard
+volume_k,Cash advance,AUG 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2016,1195.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2016,1396.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2016,1135.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2016,171.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2016,2194.0,TH-Aboard
+value_m,Cash advance,AUG 2016,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2016,5797.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2016,2790.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2016,1414.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2016,217.0,TH-Aboard
+volume_k,Cash withdrawal,SEP 2016,223,TH-Aboard
+volume_k,Cash advance,SEP 2016,5,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,SEP 2016,1180,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,SEP 2016,1386,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,SEP 2016,1025,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,SEP 2016,367,TH-Aboard
+value_m,Cash withdrawal,SEP 2016,2313,TH-Aboard
+value_m,Cash advance,SEP 2016,50,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,SEP 2016,6400,TH-Aboard
+value_m,Purchasing via online channels by credit cards,SEP 2016,2960,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,SEP 2016,1381,TH-Aboard
+value_m,Purchasing via online channels by debit cards,SEP 2016,377,TH-Aboard
+volume_k,Cash withdrawal,OCT 2016,238.0,TH-Aboard
+volume_k,Cash advance,OCT 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,OCT 2016,1388.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,OCT 2016,1459.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,OCT 2016,1083.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,OCT 2016,401.0,TH-Aboard
+value_m,Cash withdrawal,OCT 2016,2335.0,TH-Aboard
+value_m,Cash advance,OCT 2016,46.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,OCT 2016,7855.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,OCT 2016,2770.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,OCT 2016,1456.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,OCT 2016,385.0,TH-Aboard
+volume_k,Cash withdrawal,NOV 2016,218.0,TH-Aboard
+volume_k,Cash advance,NOV 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,NOV 2016,1304.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,NOV 2016,1529.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,NOV 2016,1126.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,NOV 2016,414.0,TH-Aboard
+value_m,Cash withdrawal,NOV 2016,2139.0,TH-Aboard
+value_m,Cash advance,NOV 2016,45.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,NOV 2016,6873.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,NOV 2016,2988.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,NOV 2016,1406.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,NOV 2016,403.0,TH-Aboard
+volume_k,Cash withdrawal,DEC 2016,238.0,TH-Aboard
+volume_k,Cash advance,DEC 2016,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,DEC 2016,1387.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,DEC 2016,1572.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,DEC 2016,1194.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,DEC 2016,484.0,TH-Aboard
+value_m,Cash withdrawal,DEC 2016,2281.0,TH-Aboard
+value_m,Cash advance,DEC 2016,47.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,DEC 2016,7548.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,DEC 2016,2945.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,DEC 2016,1434.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,DEC 2016,421.0,TH-Aboard
+volume_k,Cash withdrawal,JAN 2017,207.0,TH-Aboard
+volume_k,Cash advance,JAN 2017,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2017,1294.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2017,1535.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2017,817.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2017,872.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2017,2084.0,TH-Aboard
+value_m,Cash advance,JAN 2017,41.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2017,6928.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2017,3128.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2017,1166.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2017,744.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2017,188.0,TH-Aboard
+volume_k,Cash advance,FEB 2017,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2017,1161.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2017,1403.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2017,745.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2017,801.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2017,1975.0,TH-Aboard
+value_m,Cash advance,FEB 2017,37.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2017,5837.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2017,2917.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2017,1063.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2017,714.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2017,230.0,TH-Aboard
+volume_k,Cash advance,MAR 2017,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2017,1348.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2017,1512.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2017,796.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2017,890.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2017,2244.0,TH-Aboard
+value_m,Cash advance,MAR 2017,40.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2017,7167.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2017,3247.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2017,1192.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2017,785.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2017,247.0,TH-Aboard
+volume_k,Cash advance,APR 2017,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2017,1707.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2017,1676.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2017,976.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2017,991.0,TH-Aboard
+value_m,Cash withdrawal,APR 2017,2322.0,TH-Aboard
+value_m,Cash advance,APR 2017,46.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2017,10038.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2017,3246.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2017,1295.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2017,782.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2017,239.0,TH-Aboard
+volume_k,Cash advance,MAY 2017,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2017,1566.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2017,1645.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2017,964.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2017,1105.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2017,2285.0,TH-Aboard
+value_m,Cash advance,MAY 2017,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2017,8126.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2017,2943.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2017,1258.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2017,796.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2017,233.0,TH-Aboard
+volume_k,Cash advance,JUN 2017,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2017,1297.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2017,1702.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2017,1034.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2017,994.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2017,2356.0,TH-Aboard
+value_m,Cash advance,JUN 2017,43.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2017,6402.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2017,2903.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2017,1285.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2017,748.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2017,228.0,TH-Aboard
+volume_k,Cash advance,JUL 2017,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2017,1424.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2017,1775.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2017,1051.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2017,1191.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2017,2338.0,TH-Aboard
+value_m,Cash advance,JUL 2017,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2017,7051.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2017,3006.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2017,1352.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2017,823.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2017,211.0,TH-Aboard
+volume_k,Cash advance,AUG 2017,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2017,1297.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2017,1808.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2017,1068.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2017,1206.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2017,2196.0,TH-Aboard
+value_m,Cash advance,AUG 2017,47.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2017,5983.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2017,3135.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2017,1356.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2017,824.0,TH-Aboard
+volume_k,Cash withdrawal,SEP 2017,227.0,TH-Aboard
+volume_k,Cash advance,SEP 2017,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,SEP 2017,1301.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,SEP 2017,1735.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,SEP 2017,1044.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,SEP 2017,1323.0,TH-Aboard
+value_m,Cash withdrawal,SEP 2017,2333.0,TH-Aboard
+value_m,Cash advance,SEP 2017,41.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,SEP 2017,6645.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,SEP 2017,2988.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,SEP 2017,1391.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,SEP 2017,858.0,TH-Aboard
+volume_k,Cash withdrawal,OCT 2017,246.0,TH-Aboard
+volume_k,Cash advance,OCT 2017,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,OCT 2017,1614.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,OCT 2017,1884.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,OCT 2017,1168.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,OCT 2017,774.0,TH-Aboard
+value_m,Cash withdrawal,OCT 2017,2399.0,TH-Aboard
+value_m,Cash advance,OCT 2017,64.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,OCT 2017,8174.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,OCT 2017,3092.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,OCT 2017,1373.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,OCT 2017,621.0,TH-Aboard
+volume_k,Cash withdrawal,NOV 2017,231.0,TH-Aboard
+volume_k,Cash advance,NOV 2017,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,NOV 2017,1434.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,NOV 2017,1971.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,NOV 2017,1206.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,NOV 2017,1514.0,TH-Aboard
+value_m,Cash withdrawal,NOV 2017,2298.0,TH-Aboard
+value_m,Cash advance,NOV 2017,65.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,NOV 2017,7220.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,NOV 2017,3359.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,NOV 2017,1380.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,NOV 2017,1016.0,TH-Aboard
+volume_k,Cash withdrawal,DEC 2017,248.0,TH-Aboard
+volume_k,Cash advance,DEC 2017,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,DEC 2017,1530.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,DEC 2017,1953.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,DEC 2017,1313.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,DEC 2017,1603.0,TH-Aboard
+value_m,Cash withdrawal,DEC 2017,2432.0,TH-Aboard
+value_m,Cash advance,DEC 2017,77.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,DEC 2017,7768.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,DEC 2017,3038.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,DEC 2017,1515.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,DEC 2017,1042.0,TH-Aboard
+volume_k,Cash withdrawal,JAN 2018,224.0,TH-Aboard
+volume_k,Cash advance,JAN 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2018,1597.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2018,2052.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2018,1358.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2018,1743.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2018,2224.0,TH-Aboard
+value_m,Cash advance,JAN 2018,66.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2018,7944.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2018,3580.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2018,1556.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2018,1143.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2018,195.0,TH-Aboard
+volume_k,Cash advance,FEB 2018,6.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2018,1339.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2018,1860.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2018,1259.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2018,1487.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2018,2026.0,TH-Aboard
+value_m,Cash advance,FEB 2018,60.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2018,6063.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2018,3167.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2018,1357.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2018,946.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2018,243.0,TH-Aboard
+volume_k,Cash advance,MAR 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2018,1701.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2018,2259.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2018,1501.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2018,2078.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2018,2403.0,TH-Aboard
+value_m,Cash advance,MAR 2018,69.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2018,8176.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2018,3689.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2018,1633.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2018,1305.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2018,256.0,TH-Aboard
+volume_k,Cash advance,APR 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2018,2016.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2018,2140.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2018,1564.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2018,2023.0,TH-Aboard
+value_m,Cash withdrawal,APR 2018,2388.0,TH-Aboard
+value_m,Cash advance,APR 2018,75.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2018,10725.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2018,3339.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2018,1610.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2018,1228.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2018,256.0,TH-Aboard
+volume_k,Cash advance,MAY 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2018,1748.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2018,2083.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2018,1556.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2018,2052.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2018,2476.0,TH-Aboard
+value_m,Cash advance,MAY 2018,70.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2018,8611.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2018,3570.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2018,1687.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2018,1280.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2018,249.0,TH-Aboard
+volume_k,Cash advance,JUN 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2018,1567.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2018,1984.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2018,1470.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2018,1904.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2018,2555.0,TH-Aboard
+value_m,Cash advance,JUN 2018,77.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2018,7430.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2018,3371.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2018,1620.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2018,1264.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2018,237.0,TH-Aboard
+volume_k,Cash advance,JUL 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2018,1720.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2018,2006.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2018,1483.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2018,1914.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2018,2422.0,TH-Aboard
+value_m,Cash advance,JUL 2018,73.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2018,8315.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2018,3470.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2018,1702.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2018,1350.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2018,225.0,TH-Aboard
+volume_k,Cash advance,AUG 2018,7.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2018,1523.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2018,2030.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2018,1465.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2018,1920.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2018,2381.0,TH-Aboard
+value_m,Cash advance,AUG 2018,71.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2018,6994.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2018,3642.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2018,1653.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2018,1380.0,TH-Aboard
+volume_k,Cash withdrawal,SEP 2018,243.0,TH-Aboard
+volume_k,Cash advance,SEP 2018,6.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,SEP 2018,1521.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,SEP 2018,1993.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,SEP 2018,1550.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,SEP 2018,2018.0,TH-Aboard
+value_m,Cash withdrawal,SEP 2018,2455.0,TH-Aboard
+value_m,Cash advance,SEP 2018,59.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,SEP 2018,7032.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,SEP 2018,3636.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,SEP 2018,1670.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,SEP 2018,1375.0,TH-Aboard
+volume_k,Cash withdrawal,OCT 2018,253.0,TH-Aboard
+volume_k,Cash advance,OCT 2018,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,OCT 2018,1991.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,OCT 2018,2237.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,OCT 2018,1705.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,OCT 2018,1967.0,TH-Aboard
+value_m,Cash withdrawal,OCT 2018,2409.0,TH-Aboard
+value_m,Cash advance,OCT 2018,52.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,OCT 2018,9881.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,OCT 2018,3992.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,OCT 2018,1902.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,OCT 2018,1102.0,TH-Aboard
+volume_k,Cash withdrawal,NOV 2018,233.0,TH-Aboard
+volume_k,Cash advance,NOV 2018,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,NOV 2018,1760.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,NOV 2018,2280.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,NOV 2018,1719.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,NOV 2018,1872.0,TH-Aboard
+value_m,Cash withdrawal,NOV 2018,2236.0,TH-Aboard
+value_m,Cash advance,NOV 2018,41.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,NOV 2018,7986.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,NOV 2018,4081.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,NOV 2018,1981.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,NOV 2018,1151.0,TH-Aboard
+volume_k,Cash withdrawal,DEC 2018,254.0,TH-Aboard
+volume_k,Cash advance,DEC 2018,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,DEC 2018,1782.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,DEC 2018,2301.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,DEC 2018,1870.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,DEC 2018,1747.0,TH-Aboard
+value_m,Cash withdrawal,DEC 2018,2407.0,TH-Aboard
+value_m,Cash advance,DEC 2018,45.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,DEC 2018,8703.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,DEC 2018,3770.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,DEC 2018,2107.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,DEC 2018,1096.0,TH-Aboard
+volume_k,Cash withdrawal,JAN 2019,223.0,TH-Aboard
+volume_k,Cash advance,JAN 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2019,1881.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2019,2207.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2019,1821.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2019,1803.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2019,2173.0,TH-Aboard
+value_m,Cash advance,JAN 2019,45.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2019,8501.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2019,4136.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2019,2108.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2019,1111.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2019,197.0,TH-Aboard
+volume_k,Cash advance,FEB 2019,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2019,1621.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2019,2081.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2019,1671.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2019,1627.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2019,2001.0,TH-Aboard
+value_m,Cash advance,FEB 2019,41.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2019,7271.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2019,3667.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2019,1959.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2019,1066.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2019,242.0,TH-Aboard
+volume_k,Cash advance,MAR 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2019,1848.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2019,2330.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2019,1883.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2019,1851.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2019,2300.0,TH-Aboard
+value_m,Cash advance,MAR 2019,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2019,8931.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2019,4292.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2019,2289.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2019,1201.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2019,258.0,TH-Aboard
+volume_k,Cash advance,APR 2019,6.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2019,2316.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2019,2371.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2019,1871.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2019,1842.0,TH-Aboard
+value_m,Cash withdrawal,APR 2019,2332.0,TH-Aboard
+value_m,Cash advance,APR 2019,54.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2019,11773.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2019,4070.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2019,2279.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2019,1144.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2019,256.0,TH-Aboard
+volume_k,Cash advance,MAY 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2019,1947.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2019,2372.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2019,1900.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2019,1916.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2019,2392.0,TH-Aboard
+value_m,Cash advance,MAY 2019,50.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2019,9216.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2019,4159.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2019,2347.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2019,1218.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2019,256.0,TH-Aboard
+volume_k,Cash advance,JUN 2019,6.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2019,1692.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2019,2317.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2019,1961.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2019,1958.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2019,2529.0,TH-Aboard
+value_m,Cash advance,JUN 2019,46.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2019,7682.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2019,3909.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2019,2327.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2019,1214.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2019,239.0,TH-Aboard
+volume_k,Cash advance,JUL 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2019,2045.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2019,2563.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2019,2106.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2019,2150.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2019,2311.0,TH-Aboard
+value_m,Cash advance,JUL 2019,45.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2019,9216.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2019,4049.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2019,2467.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2019,1314.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2019,219.0,TH-Aboard
+volume_k,Cash advance,AUG 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2019,1869.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2019,2227.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2019,2095.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2019,2060.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2019,2226.0,TH-Aboard
+value_m,Cash advance,AUG 2019,44.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2019,7063.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2019,4142.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2019,2424.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2019,1302.0,TH-Aboard
+volume_k,Cash withdrawal,SEP 2019,238.0,TH-Aboard
+volume_k,Cash advance,SEP 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,SEP 2019,2119.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,SEP 2019,2077.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,SEP 2019,2151.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,SEP 2019,2045.0,TH-Aboard
+value_m,Cash withdrawal,SEP 2019,2224.0,TH-Aboard
+value_m,Cash advance,SEP 2019,46.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,SEP 2019,7987.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,SEP 2019,4148.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,SEP 2019,2451.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,SEP 2019,1326.0,TH-Aboard
+volume_k,Cash withdrawal,OCT 2019,251.0,TH-Aboard
+volume_k,Cash advance,OCT 2019,6.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,OCT 2019,2501.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,OCT 2019,2243.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,OCT 2019,2452.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,OCT 2019,2289.0,TH-Aboard
+value_m,Cash withdrawal,OCT 2019,2237.0,TH-Aboard
+value_m,Cash advance,OCT 2019,53.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,OCT 2019,9698.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,OCT 2019,4301.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,OCT 2019,2695.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,OCT 2019,1411.0,TH-Aboard
+volume_k,Cash withdrawal,NOV 2019,233.0,TH-Aboard
+volume_k,Cash advance,NOV 2019,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,NOV 2019,2277.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,NOV 2019,2203.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,NOV 2019,2490.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,NOV 2019,2268.0,TH-Aboard
+value_m,Cash withdrawal,NOV 2019,2078.0,TH-Aboard
+value_m,Cash advance,NOV 2019,45.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,NOV 2019,8330.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,NOV 2019,4432.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,NOV 2019,2709.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,NOV 2019,1398.0,TH-Aboard
+volume_k,Cash withdrawal,DEC 2019,253.0,TH-Aboard
+volume_k,Cash advance,DEC 2019,6.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,DEC 2019,2572.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,DEC 2019,2254.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,DEC 2019,2713.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,DEC 2019,2421.0,TH-Aboard
+value_m,Cash withdrawal,DEC 2019,2269.0,TH-Aboard
+value_m,Cash advance,DEC 2019,52.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,DEC 2019,9425.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,DEC 2019,4377.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,DEC 2019,2886.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,DEC 2019,1465.0,TH-Aboard
+volume_k,Cash withdrawal,JAN 2020,212.0,TH-Aboard
+volume_k,Cash advance,JAN 2020,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2020,2379.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2020,2134.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2020,2599.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2020,2297.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2020,1985.0,TH-Aboard
+value_m,Cash advance,JAN 2020,48.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2020,8375.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2020,4375.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2020,2802.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2020,1419.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2020,171.0,TH-Aboard
+volume_k,Cash advance,FEB 2020,5.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2020,2026.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2020,1923.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2020,2409.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2020,2074.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2020,1648.0,TH-Aboard
+value_m,Cash advance,FEB 2020,44.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2020,6380.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2020,3464.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2020,2485.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2020,1317.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2020,160.0,TH-Aboard
+volume_k,Cash advance,MAR 2020,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2020,1745.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2020,1951.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2020,2577.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2020,2322.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2020,1650.0,TH-Aboard
+value_m,Cash advance,MAR 2020,33.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2020,3656.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2020,2623.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2020,2372.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2020,1359.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2020,114.0,TH-Aboard
+volume_k,Cash advance,APR 2020,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2020,1533.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2020,1935.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2020,2565.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2020,2534.0,TH-Aboard
+value_m,Cash withdrawal,APR 2020,1198.0,TH-Aboard
+value_m,Cash advance,APR 2020,22.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2020,2370.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2020,2243.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2020,2175.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2020,1351.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2020,138.0,TH-Aboard
+volume_k,Cash advance,MAY 2020,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2020,1564.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2020,1999.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2020,2892.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2020,2765.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2020,1463.0,TH-Aboard
+value_m,Cash advance,MAY 2020,19.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2020,2675.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2020,2558.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2020,2631.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2020,1541.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2020,156.0,TH-Aboard
+volume_k,Cash advance,JUN 2020,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2020,1667.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2020,2176.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2020,2948.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2020,2690.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2020,1823.0,TH-Aboard
+value_m,Cash advance,JUN 2020,36.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2020,2966.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2020,3093.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2020,2887.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2020,1658.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2020,151.0,TH-Aboard
+volume_k,Cash advance,JUL 2020,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2020,1489.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2020,2294.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2020,2999.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2020,2550.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2020,1760.0,TH-Aboard
+value_m,Cash advance,JUL 2020,39.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2020,2375.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2020,4248.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2020,2978.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2020,1719.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2020,138.0,TH-Aboard
+volume_k,Cash advance,AUG 2020,4.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2020,1450.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2020,2198.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2020,3056.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2020,2515.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2020,1620.0,TH-Aboard
+value_m,Cash advance,AUG 2020,38.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2020,2439.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2020,4303.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2020,3142.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2020,1575.0,TH-Aboard
+volume_k,Cash withdrawal,SEP 2020,131.0,TH-Aboard
+volume_k,Cash advance,SEP 2020,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,SEP 2020,1461.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,SEP 2020,2237.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,SEP 2020,3228.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,SEP 2020,2414.0,TH-Aboard
+value_m,Cash withdrawal,SEP 2020,1573.0,TH-Aboard
+value_m,Cash advance,SEP 2020,21.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,SEP 2020,2504.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,SEP 2020,4349.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,SEP 2020,3332.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,SEP 2020,1236.0,TH-Aboard
+volume_k,Cash withdrawal,OCT 2020,126.0,TH-Aboard
+volume_k,Cash advance,OCT 2020,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,OCT 2020,1572.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,OCT 2020,2568.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,OCT 2020,3432.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,OCT 2020,2740.0,TH-Aboard
+value_m,Cash withdrawal,OCT 2020,1541.0,TH-Aboard
+value_m,Cash advance,OCT 2020,22.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,OCT 2020,2576.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,OCT 2020,4541.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,OCT 2020,3442.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,OCT 2020,1377.0,TH-Aboard
+volume_k,Cash withdrawal,NOV 2020,120.0,TH-Aboard
+volume_k,Cash advance,NOV 2020,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,NOV 2020,1635.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,NOV 2020,2618.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,NOV 2020,3410.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,NOV 2020,2667.0,TH-Aboard
+value_m,Cash withdrawal,NOV 2020,1506.0,TH-Aboard
+value_m,Cash advance,NOV 2020,20.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,NOV 2020,2792.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,NOV 2020,4886.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,NOV 2020,3405.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,NOV 2020,1410.0,TH-Aboard
+volume_k,Cash withdrawal,DEC 2020,131.0,TH-Aboard
+volume_k,Cash advance,DEC 2020,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,DEC 2020,1648.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,DEC 2020,2526.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,DEC 2020,3732.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,DEC 2020,2677.0,TH-Aboard
+value_m,Cash withdrawal,DEC 2020,1630.0,TH-Aboard
+value_m,Cash advance,DEC 2020,21.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,DEC 2020,2866.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,DEC 2020,4513.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,DEC 2020,3736.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,DEC 2020,1449.0,TH-Aboard
+volume_k,Cash withdrawal,JAN 2021,118.0,TH-Aboard
+volume_k,Cash advance,JAN 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2021,1582.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2021,2369.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2021,4037.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2021,2631.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2021,1494.0,TH-Aboard
+value_m,Cash advance,JAN 2021,21.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2021,2601.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2021,4207.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2021,3676.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2021,1394.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2021,113.0,TH-Aboard
+volume_k,Cash advance,FEB 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2021,1428.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2021,2149.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2021,3317.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2021,2399.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2021,1363.0,TH-Aboard
+value_m,Cash advance,FEB 2021,17.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2021,2398.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2021,4003.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2021,3426.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2021,1373.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2021,123.0,TH-Aboard
+volume_k,Cash advance,MAR 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2021,1776.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2021,2399.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2021,3124.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2021,2594.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2021,1514.0,TH-Aboard
+value_m,Cash advance,MAR 2021,18.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2021,3158.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2021,5274.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2021,3865.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2021,1628.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2021,112.0,TH-Aboard
+volume_k,Cash advance,APR 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2021,1739.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2021,2329.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2021,3098.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2021,2550.0,TH-Aboard
+value_m,Cash withdrawal,APR 2021,1455.0,TH-Aboard
+value_m,Cash advance,APR 2021,18.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2021,2971.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2021,4657.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2021,3893.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2021,1570.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2021,117.0,TH-Aboard
+volume_k,Cash advance,MAY 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2021,1900.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2021,2281.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2021,3465.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2021,2765.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2021,1575.0,TH-Aboard
+value_m,Cash advance,MAY 2021,18.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2021,3204.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2021,4591.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2021,4260.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2021,1701.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2021,117.0,TH-Aboard
+volume_k,Cash advance,JUN 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2021,1968.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2021,2268.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2021,3269.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2021,2603.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2021,1634.0,TH-Aboard
+value_m,Cash advance,JUN 2021,18.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2021,3450.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2021,4536.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2021,4025.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2021,1560.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2021,116.0,TH-Aboard
+volume_k,Cash advance,JUL 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2021,2036.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2021,2389.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2021,3500.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2021,2806.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2021,1574.0,TH-Aboard
+value_m,Cash advance,JUL 2021,21.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2021,3642.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2021,4738.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2021,4336.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2021,1711.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2021,120.0,TH-Aboard
+volume_k,Cash advance,AUG 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2021,2118.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2021,2393.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2021,3449.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2021,2766.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2021,1616.0,TH-Aboard
+value_m,Cash advance,AUG 2021,22.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2021,4077.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2021,4822.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2021,4324.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2021,1759.0,TH-Aboard
+volume_k,Cash withdrawal,SEP 2021,117.0,TH-Aboard
+volume_k,Cash advance,SEP 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,SEP 2021,2067.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,SEP 2021,2293.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,SEP 2021,3435.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,SEP 2021,2743.0,TH-Aboard
+value_m,Cash withdrawal,SEP 2021,1555.0,TH-Aboard
+value_m,Cash advance,SEP 2021,20.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,SEP 2021,4138.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,SEP 2021,5602.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,SEP 2021,4481.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,SEP 2021,1928.0,TH-Aboard
+volume_k,Cash withdrawal,OCT 2021,117.0,TH-Aboard
+volume_k,Cash advance,OCT 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,OCT 2021,2057.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,OCT 2021,2192.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,OCT 2021,3341.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,OCT 2021,2656.0,TH-Aboard
+value_m,Cash withdrawal,OCT 2021,1580.0,TH-Aboard
+value_m,Cash advance,OCT 2021,20.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,OCT 2021,4118.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,OCT 2021,5357.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,OCT 2021,4456.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,OCT 2021,1912.0,TH-Aboard
+volume_k,Cash withdrawal,NOV 2021,116.0,TH-Aboard
+volume_k,Cash advance,NOV 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,NOV 2021,2149.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,NOV 2021,2102.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,NOV 2021,3024.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,NOV 2021,1965.0,TH-Aboard
+value_m,Cash withdrawal,NOV 2021,1609.0,TH-Aboard
+value_m,Cash advance,NOV 2021,17.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,NOV 2021,4582.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,NOV 2021,5164.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,NOV 2021,4443.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,NOV 2021,1730.0,TH-Aboard
+volume_k,Cash withdrawal,DEC 2021,117.0,TH-Aboard
+volume_k,Cash advance,DEC 2021,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,DEC 2021,2202.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,DEC 2021,2008.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,DEC 2021,3256.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,DEC 2021,1989.0,TH-Aboard
+value_m,Cash withdrawal,DEC 2021,1799.0,TH-Aboard
+value_m,Cash advance,DEC 2021,21.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,DEC 2021,4883.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,DEC 2021,4999.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,DEC 2021,4898.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,DEC 2021,1815.0,TH-Aboard
+volume_k,Cash withdrawal,JAN 2022,112.0,TH-Aboard
+volume_k,Cash advance,JAN 2022,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JAN 2022,2207.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JAN 2022,1926.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JAN 2022,3226.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JAN 2022,1619.0,TH-Aboard
+value_m,Cash withdrawal,JAN 2022,1789.0,TH-Aboard
+value_m,Cash advance,JAN 2022,19.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JAN 2022,4411.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JAN 2022,4679.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JAN 2022,4738.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JAN 2022,1457.0,TH-Aboard
+volume_k,Cash withdrawal,FEB 2022,105.0,TH-Aboard
+volume_k,Cash advance,FEB 2022,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,FEB 2022,1983.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,FEB 2022,1762.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,FEB 2022,2935.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,FEB 2022,1305.0,TH-Aboard
+value_m,Cash withdrawal,FEB 2022,1717.0,TH-Aboard
+value_m,Cash advance,FEB 2022,16.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,FEB 2022,4024.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,FEB 2022,4490.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,FEB 2022,4407.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,FEB 2022,1290.0,TH-Aboard
+volume_k,Cash withdrawal,MAR 2022,109.0,TH-Aboard
+volume_k,Cash advance,MAR 2022,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAR 2022,2404.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAR 2022,2068.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAR 2022,3489.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAR 2022,1559.0,TH-Aboard
+value_m,Cash withdrawal,MAR 2022,1494.0,TH-Aboard
+value_m,Cash advance,MAR 2022,20.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAR 2022,5266.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAR 2022,5331.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAR 2022,5045.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAR 2022,1472.0,TH-Aboard
+volume_k,Cash withdrawal,APR 2022,115.0,TH-Aboard
+volume_k,Cash advance,APR 2022,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,APR 2022,2461.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,APR 2022,2032.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,APR 2022,3435.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,APR 2022,1466.0,TH-Aboard
+value_m,Cash withdrawal,APR 2022,1461.0,TH-Aboard
+value_m,Cash advance,APR 2022,24.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,APR 2022,6949.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,APR 2022,5468.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,APR 2022,4910.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,APR 2022,1398.0,TH-Aboard
+volume_k,Cash withdrawal,MAY 2022,119.0,TH-Aboard
+volume_k,Cash advance,MAY 2022,2.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,MAY 2022,2635.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,MAY 2022,2153.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,MAY 2022,3606.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,MAY 2022,1549.0,TH-Aboard
+value_m,Cash withdrawal,MAY 2022,1474.0,TH-Aboard
+value_m,Cash advance,MAY 2022,28.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,MAY 2022,7018.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,MAY 2022,5829.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,MAY 2022,5058.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,MAY 2022,1560.0,TH-Aboard
+volume_k,Cash withdrawal,JUN 2022,121.0,TH-Aboard
+volume_k,Cash advance,JUN 2022,3.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUN 2022,2623.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUN 2022,2146.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUN 2022,3565.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUN 2022,1538.0,TH-Aboard
+value_m,Cash withdrawal,JUN 2022,1479.0,TH-Aboard
+value_m,Cash advance,JUN 2022,27.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUN 2022,7329.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUN 2022,5794.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUN 2022,5341.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUN 2022,1599.0,TH-Aboard
+volume_k,Cash withdrawal,JUL 2022,122.0,TH-Aboard
+volume_k,Cash advance,JUL 2022,3.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,JUL 2022,2756.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,JUL 2022,2249.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,JUL 2022,3709.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,JUL 2022,1583.0,TH-Aboard
+value_m,Cash withdrawal,JUL 2022,1445.0,TH-Aboard
+value_m,Cash advance,JUL 2022,30.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,JUL 2022,7478.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,JUL 2022,5748.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,JUL 2022,5388.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,JUL 2022,1651.0,TH-Aboard
+volume_k,Cash withdrawal,AUG 2022,125.0,TH-Aboard
+volume_k,Cash advance,AUG 2022,3.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by credit cards,AUG 2022,2880.0,TH-Aboard
+volume_k,Purchasing via online channels by credit cards,AUG 2022,2363.0,TH-Aboard
+volume_k,Purchasing via EFTPOS terminal by debit cards,AUG 2022,3845.0,TH-Aboard
+volume_k,Purchasing via online channels by debit cards,AUG 2022,1693.0,TH-Aboard
+value_m,Cash withdrawal,AUG 2022,1515.0,TH-Aboard
+value_m,Cash advance,AUG 2022,31.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by credit cards,AUG 2022,7614.0,TH-Aboard
+value_m,Purchasing via online channels by credit cards,AUG 2022,5899.0,TH-Aboard
+value_m,Purchasing via EFTPOS terminal by debit cards,AUG 2022,5408.0,TH-Aboard
+value_m,Purchasing via online channels by debit cards,AUG 2022,1687.0,TH-Aboard

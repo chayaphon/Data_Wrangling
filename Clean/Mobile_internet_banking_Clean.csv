@@ -1,0 +1,545 @@
+ChannelType,MeasureName,UsageType,MonthYear,M_Value,TransType
+Internet Banking,agreements,,JAN 2017,15728571.0,Online Banking
+Internet Banking,volume_k,,JAN 2017,15612.0,Online Banking
+Internet Banking,value_b,,JAN 2017,1646.0,Online Banking
+Mobile Banking,agreements,,JAN 2017,22497863.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JAN 2017,73483.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JAN 2017,0.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JAN 2017,606.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JAN 2017,0.0,Online Banking
+Internet Banking,agreements,,FEB 2017,16175917.0,Online Banking
+Internet Banking,volume_k,,FEB 2017,15566.0,Online Banking
+Internet Banking,value_b,,FEB 2017,1539.0,Online Banking
+Mobile Banking,agreements,,FEB 2017,23187805.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,FEB 2017,75143.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,FEB 2017,2.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,FEB 2017,619.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,FEB 2017,0.0,Online Banking
+Internet Banking,agreements,,MAR 2017,16875980.0,Online Banking
+Internet Banking,volume_k,,MAR 2017,17808.0,Online Banking
+Internet Banking,value_b,,MAR 2017,1756.0,Online Banking
+Mobile Banking,agreements,,MAR 2017,24190904.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAR 2017,88094.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAR 2017,13.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAR 2017,713.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAR 2017,0.0,Online Banking
+Internet Banking,agreements,,APR 2017,17307590.0,Online Banking
+Internet Banking,volume_k,,APR 2017,16183.0,Online Banking
+Internet Banking,value_b,,APR 2017,1490.0,Online Banking
+Mobile Banking,agreements,,APR 2017,24860386.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,APR 2017,84359.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,APR 2017,28.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,APR 2017,646.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,APR 2017,0.0,Online Banking
+Internet Banking,agreements,,MAY 2017,17901793.0,Online Banking
+Internet Banking,volume_k,,MAY 2017,18161.0,Online Banking
+Internet Banking,value_b,,MAY 2017,1691.0,Online Banking
+Mobile Banking,agreements,,MAY 2017,25753826.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAY 2017,95356.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAY 2017,50.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAY 2017,735.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAY 2017,0.0,Online Banking
+Internet Banking,agreements,,JUN 2017,18497240,Online Banking
+Internet Banking,volume_k,,JUN 2017,18459,Online Banking
+Internet Banking,value_b,,JUN 2017,1734,Online Banking
+Mobile Banking,agreements,,JUN 2017,26670348,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUN 2017,99051,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUN 2017,74,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUN 2017,741,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUN 2017,0,Online Banking
+Internet Banking,agreements,,JUL 2017,19076553.0,Online Banking
+Internet Banking,volume_k,,JUL 2017,19236.0,Online Banking
+Internet Banking,value_b,,JUL 2017,1640.0,Online Banking
+Mobile Banking,agreements,,JUL 2017,27519887.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUL 2017,107211.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUL 2017,93.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUL 2017,774.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUL 2017,0.0,Online Banking
+Internet Banking,agreements,,AUG 2017,18607173.0,Online Banking
+Internet Banking,volume_k,,AUG 2017,22083.0,Online Banking
+Internet Banking,value_b,,AUG 2017,1718.0,Online Banking
+Mobile Banking,agreements,,AUG 2017,27637391.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,AUG 2017,115663.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,AUG 2017,318.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,AUG 2017,834.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,AUG 2017,1.0,Online Banking
+Internet Banking,agreements,,SEP 2017,19090048.0,Online Banking
+Internet Banking,volume_k,,SEP 2017,15313.0,Online Banking
+Internet Banking,value_b,,SEP 2017,1746.0,Online Banking
+Mobile Banking,agreements,,SEP 2017,28885230.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,SEP 2017,130011.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,SEP 2017,954.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,SEP 2017,895.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,SEP 2017,2.0,Online Banking
+Internet Banking,agreements,,OCT 2017,19420767.0,Online Banking
+Internet Banking,volume_k,,OCT 2017,15680.0,Online Banking
+Internet Banking,value_b,,OCT 2017,1677.0,Online Banking
+Mobile Banking,agreements,,OCT 2017,29907878.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,OCT 2017,137889.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,OCT 2017,1278.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,OCT 2017,913.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,OCT 2017,2.0,Online Banking
+Internet Banking,agreements,,NOV 2017,19830545.0,Online Banking
+Internet Banking,volume_k,,NOV 2017,16308.0,Online Banking
+Internet Banking,value_b,,NOV 2017,1770.0,Online Banking
+Mobile Banking,agreements,,NOV 2017,30964829.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,NOV 2017,144495.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,NOV 2017,1626.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,NOV 2017,977.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,NOV 2017,3.0,Online Banking
+Internet Banking,agreements,,DEC 2017,20469790.0,Online Banking
+Internet Banking,volume_k,,DEC 2017,16682.0,Online Banking
+Internet Banking,value_b,,DEC 2017,1932.0,Online Banking
+Mobile Banking,agreements,,DEC 2017,32143467.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,DEC 2017,157710.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,DEC 2017,1956.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,DEC 2017,1086.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,DEC 2017,4.0,Online Banking
+Internet Banking,agreements,,JAN 2018,20708925.0,Online Banking
+Internet Banking,volume_k,,JAN 2018,15616.0,Online Banking
+Internet Banking,value_b,,JAN 2018,1830.0,Online Banking
+Mobile Banking,agreements,,JAN 2018,34017400.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JAN 2018,167157.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JAN 2018,2182.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JAN 2018,1149.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JAN 2018,4.0,Online Banking
+Internet Banking,agreements,,FEB 2018,21093121.0,Online Banking
+Internet Banking,volume_k,,FEB 2018,15222.0,Online Banking
+Internet Banking,value_b,,FEB 2018,1742.0,Online Banking
+Mobile Banking,agreements,,FEB 2018,35028954.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,FEB 2018,168787.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,FEB 2018,2406.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,FEB 2018,1129.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,FEB 2018,4.0,Online Banking
+Internet Banking,agreements,,MAR 2018,21614936.0,Online Banking
+Internet Banking,volume_k,,MAR 2018,17321.0,Online Banking
+Internet Banking,value_b,,MAR 2018,1879.0,Online Banking
+Mobile Banking,agreements,,MAR 2018,36148535.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAR 2018,194459.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAR 2018,3010.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAR 2018,1295.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAR 2018,5.0,Online Banking
+Internet Banking,agreements,,APR 2018,22017607.0,Online Banking
+Internet Banking,volume_k,,APR 2018,19171.0,Online Banking
+Internet Banking,value_b,,APR 2018,1768.0,Online Banking
+Mobile Banking,agreements,,APR 2018,37229785.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,APR 2018,190769.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,APR 2018,3182.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,APR 2018,1228.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,APR 2018,6.0,Online Banking
+Internet Banking,agreements,,MAY 2018,22503791.0,Online Banking
+Internet Banking,volume_k,,MAY 2018,21388.0,Online Banking
+Internet Banking,value_b,,MAY 2018,1945.0,Online Banking
+Mobile Banking,agreements,,MAY 2018,38635917.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAY 2018,218128.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAY 2018,3823.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAY 2018,1405.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAY 2018,6.0,Online Banking
+Internet Banking,agreements,,JUN 2018,23189100.0,Online Banking
+Internet Banking,volume_k,,JUN 2018,23319.0,Online Banking
+Internet Banking,value_b,,JUN 2018,1966.0,Online Banking
+Mobile Banking,agreements,,JUN 2018,40292025.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUN 2018,226898.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUN 2018,4142.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUN 2018,1431.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUN 2018,7.0,Online Banking
+Internet Banking,agreements,,JUL 2018,23686680.0,Online Banking
+Internet Banking,volume_k,,JUL 2018,25301.0,Online Banking
+Internet Banking,value_b,,JUL 2018,1909.0,Online Banking
+Mobile Banking,agreements,,JUL 2018,41604241.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUL 2018,244405.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUL 2018,4585.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUL 2018,1505.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUL 2018,8.0,Online Banking
+Internet Banking,agreements,,AUG 2018,24288451.0,Online Banking
+Internet Banking,volume_k,,AUG 2018,26762.0,Online Banking
+Internet Banking,value_b,,AUG 2018,2092.0,Online Banking
+Mobile Banking,agreements,,AUG 2018,43055219.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,AUG 2018,257757.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,AUG 2018,5304.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,AUG 2018,1572.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,AUG 2018,9.0,Online Banking
+Internet Banking,agreements,,SEP 2018,24761505.0,Online Banking
+Internet Banking,volume_k,,SEP 2018,27529.0,Online Banking
+Internet Banking,value_b,,SEP 2018,2046.0,Online Banking
+Mobile Banking,agreements,,SEP 2018,44272676.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,SEP 2018,267674.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,SEP 2018,6050.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,SEP 2018,1557.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,SEP 2018,10.0,Online Banking
+Internet Banking,agreements,,OCT 2018,22404525.0,Online Banking
+Internet Banking,volume_k,,OCT 2018,30361.0,Online Banking
+Internet Banking,value_b,,OCT 2018,2121.0,Online Banking
+Mobile Banking,agreements,,OCT 2018,43289560.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,OCT 2018,291698.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,OCT 2018,6845.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,OCT 2018,1661.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,OCT 2018,12.0,Online Banking
+Internet Banking,agreements,,NOV 2018,23072209.0,Online Banking
+Internet Banking,volume_k,,NOV 2018,28989.0,Online Banking
+Internet Banking,value_b,,NOV 2018,2084.0,Online Banking
+Mobile Banking,agreements,,NOV 2018,44738376.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,NOV 2018,295422.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,NOV 2018,7302.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,NOV 2018,1712.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,NOV 2018,13.0,Online Banking
+Internet Banking,agreements,,DEC 2018,23861834.0,Online Banking
+Internet Banking,volume_k,,DEC 2018,33792.0,Online Banking
+Internet Banking,value_b,,DEC 2018,2148.0,Online Banking
+Mobile Banking,agreements,,DEC 2018,46004931.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,DEC 2018,316214.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,DEC 2018,7804.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,DEC 2018,1857.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,DEC 2018,15.0,Online Banking
+Internet Banking,agreements,,JAN 2019,23855679.0,Online Banking
+Internet Banking,volume_k,,JAN 2019,34251.0,Online Banking
+Internet Banking,value_b,,JAN 2019,1939.0,Online Banking
+Mobile Banking,agreements,,JAN 2019,47055590.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JAN 2019,316259.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JAN 2019,11986.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JAN 2019,1796.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JAN 2019,23.0,Online Banking
+Internet Banking,agreements,,FEB 2019,24270338.0,Online Banking
+Internet Banking,volume_k,,FEB 2019,34735.0,Online Banking
+Internet Banking,value_b,,FEB 2019,1993.0,Online Banking
+Mobile Banking,agreements,,FEB 2019,48017782.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,FEB 2019,314437.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,FEB 2019,12907.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,FEB 2019,1749.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,FEB 2019,24.0,Online Banking
+Internet Banking,agreements,,MAR 2019,25004793.0,Online Banking
+Internet Banking,volume_k,,MAR 2019,40353.0,Online Banking
+Internet Banking,value_b,,MAR 2019,2070.0,Online Banking
+Mobile Banking,agreements,,MAR 2019,49756353.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAR 2019,358125.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAR 2019,15093.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAR 2019,1943.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAR 2019,28.0,Online Banking
+Internet Banking,agreements,,APR 2019,25530433.0,Online Banking
+Internet Banking,volume_k,,APR 2019,39086.0,Online Banking
+Internet Banking,value_b,,APR 2019,2107.0,Online Banking
+Mobile Banking,agreements,,APR 2019,50881455.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,APR 2019,339193.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,APR 2019,15278.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,APR 2019,1777.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,APR 2019,29.0,Online Banking
+Internet Banking,agreements,,MAY 2019,26278742.0,Online Banking
+Internet Banking,volume_k,,MAY 2019,43158.0,Online Banking
+Internet Banking,value_b,,MAY 2019,2258.0,Online Banking
+Mobile Banking,agreements,,MAY 2019,54091763.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAY 2019,375791.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAY 2019,17562.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAY 2019,1956.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAY 2019,33.0,Online Banking
+Internet Banking,agreements,,JUN 2019,26548701.0,Online Banking
+Internet Banking,volume_k,,JUN 2019,45369.0,Online Banking
+Internet Banking,value_b,,JUN 2019,2268.0,Online Banking
+Mobile Banking,agreements,,JUN 2019,55153004.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUN 2019,389058.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUN 2019,19030.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUN 2019,1952.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUN 2019,35.0,Online Banking
+Internet Banking,agreements,,JUL 2019,27144858.0,Online Banking
+Internet Banking,volume_k,,JUL 2019,47214.0,Online Banking
+Internet Banking,value_b,,JUL 2019,1913.0,Online Banking
+Mobile Banking,agreements,,JUL 2019,56585791.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUL 2019,421493.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUL 2019,21531.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUL 2019,2440.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUL 2019,40.0,Online Banking
+Internet Banking,agreements,,AUG 2019,27552041.0,Online Banking
+Internet Banking,volume_k,,AUG 2019,50029.0,Online Banking
+Internet Banking,value_b,,AUG 2019,1913.0,Online Banking
+Mobile Banking,agreements,,AUG 2019,55486366.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,AUG 2019,450181.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,AUG 2019,23522.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,AUG 2019,2499.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,AUG 2019,43.0,Online Banking
+Internet Banking,agreements,,SEP 2019,27613660.0,Online Banking
+Internet Banking,volume_k,,SEP 2019,42006.0,Online Banking
+Internet Banking,value_b,,SEP 2019,1846.0,Online Banking
+Mobile Banking,agreements,,SEP 2019,56300671.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,SEP 2019,471594.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,SEP 2019,24482.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,SEP 2019,2513.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,SEP 2019,43.0,Online Banking
+Internet Banking,agreements,,OCT 2019,28023907.0,Online Banking
+Internet Banking,volume_k,,OCT 2019,26288.0,Online Banking
+Internet Banking,value_b,,OCT 2019,1764.0,Online Banking
+Mobile Banking,agreements,,OCT 2019,57479567.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,OCT 2019,520732.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,OCT 2019,26840.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,OCT 2019,2819.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,OCT 2019,49.0,Online Banking
+Internet Banking,agreements,,NOV 2019,28657871.0,Online Banking
+Internet Banking,volume_k,,NOV 2019,27228.0,Online Banking
+Internet Banking,value_b,,NOV 2019,1657.0,Online Banking
+Mobile Banking,agreements,,NOV 2019,58752128.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,NOV 2019,528869.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,NOV 2019,28006.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,NOV 2019,2746.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,NOV 2019,51.0,Online Banking
+Internet Banking,agreements,,DEC 2019,29404466.0,Online Banking
+Internet Banking,volume_k,,DEC 2019,28664.0,Online Banking
+Internet Banking,value_b,,DEC 2019,1898.0,Online Banking
+Mobile Banking,agreements,,DEC 2019,60084145.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,DEC 2019,567196.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,DEC 2019,29867.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,DEC 2019,2981.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,DEC 2019,60.0,Online Banking
+Internet Banking,agreements,,JAN 2020,28769748.0,Online Banking
+Internet Banking,volume_k,,JAN 2020,28098.0,Online Banking
+Internet Banking,value_b,,JAN 2020,1863.0,Online Banking
+Mobile Banking,agreements,,JAN 2020,60679606.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JAN 2020,558764.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JAN 2020,29913.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JAN 2020,2876.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JAN 2020,57.0,Online Banking
+Internet Banking,agreements,,FEB 2020,29581529.0,Online Banking
+Internet Banking,volume_k,,FEB 2020,28719.0,Online Banking
+Internet Banking,value_b,,FEB 2020,1747.0,Online Banking
+Mobile Banking,agreements,,FEB 2020,61682877.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,FEB 2020,575054.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,FEB 2020,32153.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,FEB 2020,2826.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,FEB 2020,59.0,Online Banking
+Internet Banking,agreements,,MAR 2020,29850113.0,Online Banking
+Internet Banking,volume_k,,MAR 2020,32026.0,Online Banking
+Internet Banking,value_b,,MAR 2020,2200.0,Online Banking
+Mobile Banking,agreements,,MAR 2020,62788691.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAR 2020,643131.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAR 2020,31792.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAR 2020,3088.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAR 2020,59.0,Online Banking
+Internet Banking,agreements,,APR 2020,30362322.0,Online Banking
+Internet Banking,volume_k,,APR 2020,32347.0,Online Banking
+Internet Banking,value_b,,APR 2020,1800.0,Online Banking
+Mobile Banking,agreements,,APR 2020,64326320.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,APR 2020,618934.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,APR 2020,24500.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,APR 2020,2619.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,APR 2020,45.0,Online Banking
+Internet Banking,agreements,,MAY 2020,30447756.0,Online Banking
+Internet Banking,volume_k,,MAY 2020,36662.0,Online Banking
+Internet Banking,value_b,,MAY 2020,1744.0,Online Banking
+Mobile Banking,agreements,,MAY 2020,61458463.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAY 2020,737258.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAY 2020,30247.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAY 2020,2908.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAY 2020,56.0,Online Banking
+Internet Banking,agreements,,JUN 2020,30976384.0,Online Banking
+Internet Banking,volume_k,,JUN 2020,36121.0,Online Banking
+Internet Banking,value_b,,JUN 2020,1792.0,Online Banking
+Mobile Banking,agreements,,JUN 2020,62913603.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUN 2020,758758.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUN 2020,32833.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUN 2020,3178.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUN 2020,61.0,Online Banking
+Internet Banking,agreements,,JUL 2020,31531328.0,Online Banking
+Internet Banking,volume_k,,JUL 2020,37093.0,Online Banking
+Internet Banking,value_b,,JUL 2020,1850.0,Online Banking
+Mobile Banking,agreements,,JUL 2020,64244701.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUL 2020,801477.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUL 2020,36116.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUL 2020,3465.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUL 2020,67.0,Online Banking
+Internet Banking,agreements,,AUG 2020,31552402.0,Online Banking
+Internet Banking,volume_k,,AUG 2020,38782.0,Online Banking
+Internet Banking,value_b,,AUG 2020,1809.0,Online Banking
+Mobile Banking,agreements,,AUG 2020,64994438.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,AUG 2020,827835.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,AUG 2020,38446.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,AUG 2020,3477.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,AUG 2020,68.0,Online Banking
+Internet Banking,agreements,,SEP 2020,34213563.0,Online Banking
+Internet Banking,volume_k,,SEP 2020,38637.0,Online Banking
+Internet Banking,value_b,,SEP 2020,1871.0,Online Banking
+Mobile Banking,agreements,,SEP 2020,65160583.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,SEP 2020,814781.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,SEP 2020,38536.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,SEP 2020,3507.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,SEP 2020,68.0,Online Banking
+Internet Banking,agreements,,OCT 2020,34455265.0,Online Banking
+Internet Banking,volume_k,,OCT 2020,40347.0,Online Banking
+Internet Banking,value_b,,OCT 2020,1863.0,Online Banking
+Mobile Banking,agreements,,OCT 2020,66131165.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,OCT 2020,878632.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,OCT 2020,41551.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,OCT 2020,3590.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,OCT 2020,73.0,Online Banking
+Internet Banking,agreements,,NOV 2020,34695924.0,Online Banking
+Internet Banking,volume_k,,NOV 2020,39910.0,Online Banking
+Internet Banking,value_b,,NOV 2020,2079.0,Online Banking
+Mobile Banking,agreements,,NOV 2020,67609503.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,NOV 2020,949796.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,NOV 2020,40849.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,NOV 2020,3730.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,NOV 2020,75.0,Online Banking
+Internet Banking,agreements,,DEC 2020,34946211.0,Online Banking
+Internet Banking,volume_k,,DEC 2020,40707.0,Online Banking
+Internet Banking,value_b,,DEC 2020,2220.0,Online Banking
+Mobile Banking,agreements,,DEC 2020,68697059.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,DEC 2020,1002558.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,DEC 2020,44815.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,DEC 2020,4160.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,DEC 2020,89.0,Online Banking
+Internet Banking,agreements,,JAN 2021,35150209.0,Online Banking
+Internet Banking,volume_k,,JAN 2021,41961.0,Online Banking
+Internet Banking,value_b,,JAN 2021,2158.0,Online Banking
+Mobile Banking,agreements,,JAN 2021,69092804.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JAN 2021,1018980.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JAN 2021,40695.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JAN 2021,3993.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JAN 2021,76.0,Online Banking
+Internet Banking,agreements,,FEB 2021,35373341.0,Online Banking
+Internet Banking,volume_k,,FEB 2021,41067.0,Online Banking
+Internet Banking,value_b,,FEB 2021,1984.0,Online Banking
+Mobile Banking,agreements,,FEB 2021,70132197.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,FEB 2021,997041.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,FEB 2021,41250.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,FEB 2021,3968.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,FEB 2021,82.0,Online Banking
+Internet Banking,agreements,,MAR 2021,35498415.0,Online Banking
+Internet Banking,volume_k,,MAR 2021,44772.0,Online Banking
+Internet Banking,value_b,,MAR 2021,2420.0,Online Banking
+Mobile Banking,agreements,,MAR 2021,72081849.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAR 2021,1139542.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAR 2021,46867.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAR 2021,4540.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAR 2021,96.0,Online Banking
+Internet Banking,agreements,,APR 2021,35415516.0,Online Banking
+Internet Banking,volume_k,,APR 2021,44181.0,Online Banking
+Internet Banking,value_b,,APR 2021,2080.0,Online Banking
+Mobile Banking,agreements,,APR 2021,72618221.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,APR 2021,1049544.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,APR 2021,42055.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,APR 2021,4317.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,APR 2021,85.0,Online Banking
+Internet Banking,agreements,,MAY 2021,35608988.0,Online Banking
+Internet Banking,volume_k,,MAY 2021,48089.0,Online Banking
+Internet Banking,value_b,,MAY 2021,2174.0,Online Banking
+Mobile Banking,agreements,,MAY 2021,73792720.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAY 2021,1157488.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAY 2021,43353.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAY 2021,4542.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAY 2021,87.0,Online Banking
+Internet Banking,agreements,,JUN 2021,35857161.0,Online Banking
+Internet Banking,volume_k,,JUN 2021,45646.0,Online Banking
+Internet Banking,value_b,,JUN 2021,2258.0,Online Banking
+Mobile Banking,agreements,,JUN 2021,74982583.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUN 2021,1177297.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUN 2021,45610.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUN 2021,4619.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUN 2021,88.0,Online Banking
+Internet Banking,agreements,,JUL 2021,36178314.0,Online Banking
+Internet Banking,volume_k,,JUL 2021,54394.0,Online Banking
+Internet Banking,value_b,,JUL 2021,2184.0,Online Banking
+Mobile Banking,agreements,,JUL 2021,76526614.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUL 2021,1389374.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUL 2021,42103.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUL 2021,4540.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUL 2021,84.0,Online Banking
+Internet Banking,agreements,,AUG 2021,37403761.0,Online Banking
+Internet Banking,volume_k,,AUG 2021,49568.0,Online Banking
+Internet Banking,value_b,,AUG 2021,2195.0,Online Banking
+Mobile Banking,agreements,,AUG 2021,78545218.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,AUG 2021,1365230.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,AUG 2021,44564.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,AUG 2021,4687.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,AUG 2021,84.0,Online Banking
+Internet Banking,agreements,,SEP 2021,36638170.0,Online Banking
+Internet Banking,volume_k,,SEP 2021,52521.0,Online Banking
+Internet Banking,value_b,,SEP 2021,2342.0,Online Banking
+Mobile Banking,agreements,,SEP 2021,78824825.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,SEP 2021,1385128.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,SEP 2021,47784.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,SEP 2021,4838.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,SEP 2021,91.0,Online Banking
+Internet Banking,agreements,,OCT 2021,38445163.0,Online Banking
+Internet Banking,volume_k,,OCT 2021,52065.0,Online Banking
+Internet Banking,value_b,,OCT 2021,2194.0,Online Banking
+Mobile Banking,agreements,,OCT 2021,81598287.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,OCT 2021,1575115.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,OCT 2021,48276.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,OCT 2021,5045.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,OCT 2021,98.0,Online Banking
+Internet Banking,agreements,,NOV 2021,38714869.0,Online Banking
+Internet Banking,volume_k,,NOV 2021,51728.0,Online Banking
+Internet Banking,value_b,,NOV 2021,2426.0,Online Banking
+Mobile Banking,agreements,,NOV 2021,83091624.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,NOV 2021,1592706.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,NOV 2021,48310.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,NOV 2021,5303.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,NOV 2021,101.0,Online Banking
+Internet Banking,agreements,,DEC 2021,38941665.0,Online Banking
+Internet Banking,volume_k,,DEC 2021,54830.0,Online Banking
+Internet Banking,value_b,,DEC 2021,2758.0,Online Banking
+Mobile Banking,agreements,,DEC 2021,84291262.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,DEC 2021,1647990.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,DEC 2021,55075.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,DEC 2021,5778.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,DEC 2021,120.0,Online Banking
+Internet Banking,agreements,,JAN 2022,39060505.0,Online Banking
+Internet Banking,volume_k,,JAN 2022,52136.0,Online Banking
+Internet Banking,value_b,,JAN 2022,2571.0,Online Banking
+Mobile Banking,agreements,,JAN 2022,85404368.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JAN 2022,1509614.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JAN 2022,55357.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JAN 2022,5466.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JAN 2022,112.0,Online Banking
+Internet Banking,agreements,,FEB 2022,39310560.0,Online Banking
+Internet Banking,volume_k,,FEB 2022,43278.0,Online Banking
+Internet Banking,value_b,,FEB 2022,2331.0,Online Banking
+Mobile Banking,agreements,,FEB 2022,86484749.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,FEB 2022,1596535.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,FEB 2022,48484.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,FEB 2022,5192.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,FEB 2022,100.0,Online Banking
+Internet Banking,agreements,,MAR 2022,39591530.0,Online Banking
+Internet Banking,volume_k,,MAR 2022,49379.0,Online Banking
+Internet Banking,value_b,,MAR 2022,2993.0,Online Banking
+Mobile Banking,agreements,,MAR 2022,87642770.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAR 2022,1715210.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAR 2022,58540.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAR 2022,5338.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAR 2022,118.0,Online Banking
+Internet Banking,agreements,,APR 2022,39853498.0,Online Banking
+Internet Banking,volume_k,,APR 2022,47382.0,Online Banking
+Internet Banking,value_b,,APR 2022,2633.0,Online Banking
+Mobile Banking,agreements,,APR 2022,88089640.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,APR 2022,1631665.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,APR 2022,56013.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,APR 2022,5003.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,APR 2022,118.0,Online Banking
+Internet Banking,agreements,,MAY 2022,38108051.0,Online Banking
+Internet Banking,volume_k,,MAY 2022,56146.0,Online Banking
+Internet Banking,value_b,,MAY 2022,2661.0,Online Banking
+Mobile Banking,agreements,,MAY 2022,86827644.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,MAY 2022,1737706.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,MAY 2022,60351.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,MAY 2022,5479.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,MAY 2022,124.0,Online Banking
+Internet Banking,agreements,,JUN 2022,38577544.0,Online Banking
+Internet Banking,volume_k,,JUN 2022,54950.0,Online Banking
+Internet Banking,value_b,,JUN 2022,2745.0,Online Banking
+Mobile Banking,agreements,,JUN 2022,90525967.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUN 2022,1767511.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUN 2022,61364.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUN 2022,5540.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUN 2022,123.0,Online Banking
+Internet Banking,agreements,,JUL 2022,38852951.0,Online Banking
+Internet Banking,volume_k,,JUL 2022,54599.0,Online Banking
+Internet Banking,value_b,,JUL 2022,2514.0,Online Banking
+Mobile Banking,agreements,,JUL 2022,91620386.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,JUL 2022,1896435.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,JUL 2022,64365.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,JUL 2022,5508.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,JUL 2022,128.0,Online Banking
+Internet Banking,agreements,,AUG 2022,39254356.0,Online Banking
+Internet Banking,volume_k,,AUG 2022,52192.0,Online Banking
+Internet Banking,value_b,,AUG 2022,2678.0,Online Banking
+Mobile Banking,agreements,,AUG 2022,93173252.0,Online Banking
+Mobile Banking,volume_k,for fund transfer and payment,AUG 2022,1975080.0,Online Banking
+Mobile Banking,volume_k,for cash withdrawal,AUG 2022,65508.0,Online Banking
+Mobile Banking,value_b,for fund transfer and payment,AUG 2022,5713.0,Online Banking
+Mobile Banking,value_b,for cash withdrawal,AUG 2022,129.0,Online Banking

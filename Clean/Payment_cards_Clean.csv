@@ -1,0 +1,609 @@
+SystemType,ChannelType,MonthYear,M_Value,TransType,MeasureName
+EFTPOS Terminal,Credit card,JAN 2010,3563.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2010,80.0,Payment cards,value
+ATM,ATM card,JAN 2010,6510.0,Payment cards,value
+ATM,Debit card,JAN 2010,9708.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2010,3399.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2010,73.0,Payment cards,value
+ATM,ATM card,FEB 2010,6343.0,Payment cards,value
+ATM,Debit card,FEB 2010,9432.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2010,4085.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2010,83.0,Payment cards,value
+ATM,ATM card,MAR 2010,6740.0,Payment cards,value
+ATM,Debit card,MAR 2010,10088.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2010,3633.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2010,73.0,Payment cards,value
+ATM,ATM card,APR 2010,6513.0,Payment cards,value
+ATM,Debit card,APR 2010,9406.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2010,3580.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2010,69.0,Payment cards,value
+ATM,ATM card,MAY 2010,6644.0,Payment cards,value
+ATM,Debit card,MAY 2010,9425.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2010,3821.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2010,72.0,Payment cards,value
+ATM,ATM card,JUN 2010,6610.0,Payment cards,value
+ATM,Debit card,JUN 2010,9561.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2010,3859.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2010,83.0,Payment cards,value
+ATM,ATM card,JUL 2010,7139.0,Payment cards,value
+ATM,Debit card,JUL 2010,9741.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2010,3958.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2010,75.0,Payment cards,value
+ATM,ATM card,AUG 2010,6419.0,Payment cards,value
+ATM,Debit card,AUG 2010,9415.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2010,3752,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2010,75,Payment cards,value
+ATM,ATM card,SEP 2010,6368,Payment cards,value
+ATM,Debit card,SEP 2010,9401,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2010,3949.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2010,85.0,Payment cards,value
+ATM,ATM card,OCT 2010,6742.0,Payment cards,value
+ATM,Debit card,OCT 2010,9811.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2010,4144.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2010,91.0,Payment cards,value
+ATM,ATM card,NOV 2010,6584.0,Payment cards,value
+ATM,Debit card,NOV 2010,9642.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2010,4860.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2010,102.0,Payment cards,value
+ATM,ATM card,DEC 2010,7533.0,Payment cards,value
+ATM,Debit card,DEC 2010,10842.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2011,3969.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2011,168.0,Payment cards,value
+ATM,ATM card,JAN 2011,6983.0,Payment cards,value
+ATM,Debit card,JAN 2011,10095.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2011,3638.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2011,137.0,Payment cards,value
+ATM,ATM card,FEB 2011,6630.0,Payment cards,value
+ATM,Debit card,FEB 2011,9654.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2011,4142.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2011,157.0,Payment cards,value
+ATM,ATM card,MAR 2011,7366.0,Payment cards,value
+ATM,Debit card,MAR 2011,10657.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2011,3927.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2011,148.0,Payment cards,value
+ATM,ATM card,APR 2011,7172.0,Payment cards,value
+ATM,Debit card,APR 2011,9934.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2011,4378.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2011,176.0,Payment cards,value
+ATM,ATM card,MAY 2011,7225.0,Payment cards,value
+ATM,Debit card,MAY 2011,10196.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2011,4178.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2011,164.0,Payment cards,value
+ATM,ATM card,JUN 2011,7133.0,Payment cards,value
+ATM,Debit card,JUN 2011,9923.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2011,4253.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2011,188.0,Payment cards,value
+ATM,ATM card,JUL 2011,7293.0,Payment cards,value
+ATM,Debit card,JUL 2011,10148.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2011,4399.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2011,282.0,Payment cards,value
+ATM,ATM card,AUG 2011,7513.0,Payment cards,value
+ATM,Debit card,AUG 2011,10170.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2011,4237.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2011,290.0,Payment cards,value
+ATM,ATM card,SEP 2011,7418.0,Payment cards,value
+ATM,Debit card,SEP 2011,9985.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2011,4056.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2011,196.0,Payment cards,value
+ATM,ATM card,OCT 2011,7357.0,Payment cards,value
+ATM,Debit card,OCT 2011,9842.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2011,3584.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2011,170.0,Payment cards,value
+ATM,ATM card,NOV 2011,6710.0,Payment cards,value
+ATM,Debit card,NOV 2011,8949.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2011,5301.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2011,202.0,Payment cards,value
+ATM,ATM card,DEC 2011,8503.0,Payment cards,value
+ATM,Debit card,DEC 2011,11160.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2012,4610.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2012,193.0,Payment cards,value
+ATM,ATM card,JAN 2012,7903.0,Payment cards,value
+ATM,Debit card,JAN 2012,8375.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2012,4439.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2012,189.0,Payment cards,value
+ATM,ATM card,FEB 2012,7762.0,Payment cards,value
+ATM,Debit card,FEB 2012,10541.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2012,4800.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2012,214.0,Payment cards,value
+ATM,ATM card,MAR 2012,8455.0,Payment cards,value
+ATM,Debit card,MAR 2012,11303.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2012,4672.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2012,176.0,Payment cards,value
+ATM,ATM card,APR 2012,7889.0,Payment cards,value
+ATM,Debit card,APR 2012,10353.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2012,4721.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2012,192.0,Payment cards,value
+ATM,ATM card,MAY 2012,8198.0,Payment cards,value
+ATM,Debit card,MAY 2012,10905.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2012,4540.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2012,194.0,Payment cards,value
+ATM,ATM card,JUN 2012,8042.0,Payment cards,value
+ATM,Debit card,JUN 2012,10615.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2012,4804.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2012,201.0,Payment cards,value
+ATM,ATM card,JUL 2012,8061.0,Payment cards,value
+ATM,Debit card,JUL 2012,10684.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2012,4637.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2012,193.0,Payment cards,value
+ATM,ATM card,AUG 2012,7917.0,Payment cards,value
+ATM,Debit card,AUG 2012,10560.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2012,4438.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2012,205.0,Payment cards,value
+ATM,ATM card,SEP 2012,7774.0,Payment cards,value
+ATM,Debit card,SEP 2012,10362.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2012,5042.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2012,196.0,Payment cards,value
+ATM,ATM card,OCT 2012,8154.0,Payment cards,value
+ATM,Debit card,OCT 2012,10888.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2012,5041.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2012,199.0,Payment cards,value
+ATM,ATM card,NOV 2012,8054.0,Payment cards,value
+ATM,Debit card,NOV 2012,10675.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2012,6147.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2012,236.0,Payment cards,value
+ATM,ATM card,DEC 2012,9189.0,Payment cards,value
+ATM,Debit card,DEC 2012,12020.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2013,4779.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2013,209.0,Payment cards,value
+ATM,ATM card,JAN 2013,8310.0,Payment cards,value
+ATM,Debit card,JAN 2013,10993.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2013,4241.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2013,194.0,Payment cards,value
+ATM,ATM card,FEB 2013,8109.0,Payment cards,value
+ATM,Debit card,FEB 2013,10681.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2013,4901.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2013,197.0,Payment cards,value
+ATM,ATM card,MAR 2013,8924.0,Payment cards,value
+ATM,Debit card,MAR 2013,11827.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2013,4828.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2013,190.0,Payment cards,value
+ATM,ATM card,APR 2013,8232.0,Payment cards,value
+ATM,Debit card,APR 2013,10844.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2013,4862.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2013,195.0,Payment cards,value
+ATM,ATM card,MAY 2013,8452.0,Payment cards,value
+ATM,Debit card,MAY 2013,11256.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2013,4636.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2013,192.0,Payment cards,value
+ATM,ATM card,JUN 2013,8203.0,Payment cards,value
+ATM,Debit card,JUN 2013,11009.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2013,4787.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2013,204.0,Payment cards,value
+ATM,ATM card,JUL 2013,8046.0,Payment cards,value
+ATM,Debit card,JUL 2013,10883.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2013,4731.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2013,198.0,Payment cards,value
+ATM,ATM card,AUG 2013,8026.0,Payment cards,value
+ATM,Debit card,AUG 2013,10989.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2013,5354.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2013,182.0,Payment cards,value
+ATM,ATM card,SEP 2013,7773.0,Payment cards,value
+ATM,Debit card,SEP 2013,10722.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2013,5547.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2013,199.0,Payment cards,value
+ATM,ATM card,OCT 2013,8117.0,Payment cards,value
+ATM,Debit card,OCT 2013,11181.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2013,5721.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2013,190.0,Payment cards,value
+ATM,ATM card,NOV 2013,7997.0,Payment cards,value
+ATM,Debit card,NOV 2013,10997.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2013,6780.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2013,211.0,Payment cards,value
+ATM,ATM card,DEC 2013,8990.0,Payment cards,value
+ATM,Debit card,DEC 2013,12309.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2014,5713.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2014,201.0,Payment cards,value
+ATM,ATM card,JAN 2014,8329.0,Payment cards,value
+ATM,Debit card,JAN 2014,11347.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2014,5105.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2014,184.0,Payment cards,value
+ATM,ATM card,FEB 2014,7753.0,Payment cards,value
+ATM,Debit card,FEB 2014,10669.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2014,5756.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2014,217.0,Payment cards,value
+ATM,ATM card,MAR 2014,8748.0,Payment cards,value
+ATM,Debit card,MAR 2014,12065.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2014,5437.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2014,194.0,Payment cards,value
+ATM,ATM card,APR 2014,8034.0,Payment cards,value
+ATM,Debit card,APR 2014,10968.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2014,5284.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2014,197.0,Payment cards,value
+ATM,ATM card,MAY 2014,8277.0,Payment cards,value
+ATM,Debit card,MAY 2014,11341.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2014,5214.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2014,197.0,Payment cards,value
+ATM,ATM card,JUN 2014,7860.0,Payment cards,value
+ATM,Debit card,JUN 2014,10807.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2014,5292.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2014,201.0,Payment cards,value
+ATM,ATM card,JUL 2014,7953.0,Payment cards,value
+ATM,Debit card,JUL 2014,11043.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2014,5249.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2014,206.0,Payment cards,value
+ATM,ATM card,AUG 2014,8040.0,Payment cards,value
+ATM,Debit card,AUG 2014,11127.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2014,5219.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2014,192.0,Payment cards,value
+ATM,ATM card,SEP 2014,7698.0,Payment cards,value
+ATM,Debit card,SEP 2014,10729.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2014,5546.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2014,201.0,Payment cards,value
+ATM,ATM card,OCT 2014,8146.0,Payment cards,value
+ATM,Debit card,OCT 2014,11218.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2014,5587.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2014,199.0,Payment cards,value
+ATM,ATM card,NOV 2014,7849.0,Payment cards,value
+ATM,Debit card,NOV 2014,10954.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2014,7162.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2014,222.0,Payment cards,value
+ATM,ATM card,DEC 2014,9064.0,Payment cards,value
+ATM,Debit card,DEC 2014,12548.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2015,5265.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2015,274.0,Payment cards,value
+ATM,ATM card,JAN 2015,8170.0,Payment cards,value
+ATM,Debit card,JAN 2015,11426.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2015,4928.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2015,226.0,Payment cards,value
+ATM,ATM card,FEB 2015,8019.0,Payment cards,value
+ATM,Debit card,FEB 2015,11061.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2015,5623.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2015,253.0,Payment cards,value
+ATM,ATM card,MAR 2015,7741.0,Payment cards,value
+ATM,Debit card,MAR 2015,11988.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2015,5017.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2015,225.0,Payment cards,value
+ATM,ATM card,APR 2015,7162.0,Payment cards,value
+ATM,Debit card,APR 2015,10868.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2015,5053.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2015,227.0,Payment cards,value
+ATM,ATM card,MAY 2015,7966.0,Payment cards,value
+ATM,Debit card,MAY 2015,11496.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2015,5222.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2015,220.0,Payment cards,value
+ATM,ATM card,JUN 2015,7541.0,Payment cards,value
+ATM,Debit card,JUN 2015,11090.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2015,5190.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2015,235.0,Payment cards,value
+ATM,ATM card,JUL 2015,7812.0,Payment cards,value
+ATM,Debit card,JUL 2015,11324.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2015,5185.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2015,242.0,Payment cards,value
+ATM,ATM card,AUG 2015,7638.0,Payment cards,value
+ATM,Debit card,AUG 2015,11097.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2015,4856.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2015,220.0,Payment cards,value
+ATM,ATM card,SEP 2015,7271.0,Payment cards,value
+ATM,Debit card,SEP 2015,10731.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2015,5146.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2015,238.0,Payment cards,value
+ATM,ATM card,OCT 2015,8050.0,Payment cards,value
+ATM,Debit card,OCT 2015,11527.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2015,5454.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2015,258.0,Payment cards,value
+ATM,ATM card,NOV 2015,7510.0,Payment cards,value
+ATM,Debit card,NOV 2015,11056.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2015,7595.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2015,284.0,Payment cards,value
+ATM,ATM card,DEC 2015,8859.0,Payment cards,value
+ATM,Debit card,DEC 2015,12924.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2016,6053.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2016,282.0,Payment cards,value
+ATM,ATM card,JAN 2016,7841.0,Payment cards,value
+ATM,Debit card,JAN 2016,11539.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2016,5946.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2016,273.0,Payment cards,value
+ATM,ATM card,FEB 2016,7691.0,Payment cards,value
+ATM,Debit card,FEB 2016,11267.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2016,6246.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2016,300.0,Payment cards,value
+ATM,ATM card,MAR 2016,8087.0,Payment cards,value
+ATM,Debit card,MAR 2016,12210.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2016,5806.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2016,257.0,Payment cards,value
+ATM,ATM card,APR 2016,7198.0,Payment cards,value
+ATM,Debit card,APR 2016,11231.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2016,5117.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2016,277.0,Payment cards,value
+ATM,ATM card,MAY 2016,7753.0,Payment cards,value
+ATM,Debit card,MAY 2016,11153.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2016,5757.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2016,267.0,Payment cards,value
+ATM,ATM card,JUN 2016,7003.0,Payment cards,value
+ATM,Debit card,JUN 2016,11218.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2016,5694.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2016,283.0,Payment cards,value
+ATM,ATM card,JUL 2016,7220.0,Payment cards,value
+ATM,Debit card,JUL 2016,11606.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2016,5570.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2016,274.0,Payment cards,value
+ATM,ATM card,AUG 2016,6964.0,Payment cards,value
+ATM,Debit card,AUG 2016,11405.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2016,5341.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2016,251.0,Payment cards,value
+ATM,ATM card,SEP 2016,6469.0,Payment cards,value
+ATM,Debit card,SEP 2016,11019.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2016,5663.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2016,264.0,Payment cards,value
+ATM,ATM card,OCT 2016,7059.0,Payment cards,value
+ATM,Debit card,OCT 2016,11533.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2016,5711.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2016,269.0,Payment cards,value
+ATM,ATM card,NOV 2016,6678.0,Payment cards,value
+ATM,Debit card,NOV 2016,11163.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2016,7118.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2016,313.0,Payment cards,value
+ATM,ATM card,DEC 2016,7853.0,Payment cards,value
+ATM,Debit card,DEC 2016,13068.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2017,5991.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2017,297.0,Payment cards,value
+ATM,ATM card,JAN 2017,6972.0,Payment cards,value
+ATM,Debit card,JAN 2017,11626.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2017,5832.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2017,264.0,Payment cards,value
+ATM,ATM card,FEB 2017,5654.0,Payment cards,value
+ATM,Debit card,FEB 2017,10542.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2017,6277.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2017,282.0,Payment cards,value
+ATM,ATM card,MAR 2017,7116.0,Payment cards,value
+ATM,Debit card,MAR 2017,12279.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2017,5807.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2017,273.0,Payment cards,value
+ATM,ATM card,APR 2017,6683.0,Payment cards,value
+ATM,Debit card,APR 2017,11346.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2017,5939.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2017,273.0,Payment cards,value
+ATM,ATM card,MAY 2017,6581.0,Payment cards,value
+ATM,Debit card,MAY 2017,11346.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2017,5823.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2017,274.0,Payment cards,value
+ATM,ATM card,JUN 2017,6266.0,Payment cards,value
+ATM,Debit card,JUN 2017,11045.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2017,5878.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2017,292.0,Payment cards,value
+ATM,ATM card,JUL 2017,6355.0,Payment cards,value
+ATM,Debit card,JUL 2017,11198.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2017,5854.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2017,299.0,Payment cards,value
+ATM,ATM card,AUG 2017,6179.0,Payment cards,value
+ATM,Debit card,AUG 2017,11133.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2017,5721.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2017,295.0,Payment cards,value
+ATM,ATM card,SEP 2017,6108.0,Payment cards,value
+ATM,Debit card,SEP 2017,11031.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2017,5898.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2017,303.0,Payment cards,value
+ATM,ATM card,OCT 2017,6142.0,Payment cards,value
+ATM,Debit card,OCT 2017,10989.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2017,6395.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2017,315.0,Payment cards,value
+ATM,ATM card,NOV 2017,5972.0,Payment cards,value
+ATM,Debit card,NOV 2017,10891.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2017,7420.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2017,358.0,Payment cards,value
+ATM,ATM card,DEC 2017,7060.0,Payment cards,value
+ATM,Debit card,DEC 2017,12639.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2018,6423.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2018,361.0,Payment cards,value
+ATM,ATM card,JAN 2018,6219.0,Payment cards,value
+ATM,Debit card,JAN 2018,10976.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2018,5797.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2018,318.0,Payment cards,value
+ATM,ATM card,FEB 2018,6040.0,Payment cards,value
+ATM,Debit card,FEB 2018,10541.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2018,6413.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2018,350.0,Payment cards,value
+ATM,ATM card,MAR 2018,6492.0,Payment cards,value
+ATM,Debit card,MAR 2018,11553.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2018,6023.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2018,317.0,Payment cards,value
+ATM,ATM card,APR 2018,5900.0,Payment cards,value
+ATM,Debit card,APR 2018,10309.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2018,5989.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2018,322.0,Payment cards,value
+ATM,ATM card,MAY 2018,5953.0,Payment cards,value
+ATM,Debit card,MAY 2018,10421.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2018,5937.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2018,315.0,Payment cards,value
+ATM,ATM card,JUN 2018,5643.0,Payment cards,value
+ATM,Debit card,JUN 2018,9993.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2018,6088.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2018,338.0,Payment cards,value
+ATM,ATM card,JUL 2018,5722.0,Payment cards,value
+ATM,Debit card,JUL 2018,10025.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2018,6016.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2018,322.0,Payment cards,value
+ATM,ATM card,AUG 2018,5538.0,Payment cards,value
+ATM,Debit card,AUG 2018,9785.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2018,5689.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2018,294.0,Payment cards,value
+ATM,ATM card,SEP 2018,5356.0,Payment cards,value
+ATM,Debit card,SEP 2018,9470.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2018,6183.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2018,306.0,Payment cards,value
+ATM,ATM card,OCT 2018,5330.0,Payment cards,value
+ATM,Debit card,OCT 2018,10214.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2018,6172.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2018,301.0,Payment cards,value
+ATM,ATM card,NOV 2018,5102.0,Payment cards,value
+ATM,Debit card,NOV 2018,9949.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2018,7191.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2018,345.0,Payment cards,value
+ATM,ATM card,DEC 2018,5789.0,Payment cards,value
+ATM,Debit card,DEC 2018,11268.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2019,6163.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2019,335.0,Payment cards,value
+ATM,ATM card,JAN 2019,3839.0,Payment cards,value
+ATM,Debit card,JAN 2019,9019.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2019,5546.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2019,306.0,Payment cards,value
+ATM,ATM card,FEB 2019,3563.0,Payment cards,value
+ATM,Debit card,FEB 2019,8654.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2019,5974.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2019,330.0,Payment cards,value
+ATM,ATM card,MAR 2019,3961.0,Payment cards,value
+ATM,Debit card,MAR 2019,9499.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2019,5871.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2019,306.0,Payment cards,value
+ATM,ATM card,APR 2019,3449.0,Payment cards,value
+ATM,Debit card,APR 2019,8810.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2019,5614.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2019,291.0,Payment cards,value
+ATM,ATM card,MAY 2019,3438.0,Payment cards,value
+ATM,Debit card,MAY 2019,8956.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2019,5512.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2019,284.0,Payment cards,value
+ATM,ATM card,JUN 2019,3221.0,Payment cards,value
+ATM,Debit card,JUN 2019,8635.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2019,5853.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2019,293.0,Payment cards,value
+ATM,ATM card,JUL 2019,3078.0,Payment cards,value
+ATM,Debit card,JUL 2019,8605.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2019,5742.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2019,310.0,Payment cards,value
+ATM,ATM card,AUG 2019,2885.0,Payment cards,value
+ATM,Debit card,AUG 2019,8506.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2019,5587.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2019,279.0,Payment cards,value
+ATM,ATM card,SEP 2019,3158.0,Payment cards,value
+ATM,Debit card,SEP 2019,8208.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2019,5894.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2019,291.0,Payment cards,value
+ATM,ATM card,OCT 2019,3321.0,Payment cards,value
+ATM,Debit card,OCT 2019,8653.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2019,5881.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2019,291.0,Payment cards,value
+ATM,ATM card,NOV 2019,2924.0,Payment cards,value
+ATM,Debit card,NOV 2019,8530.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2019,7097.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2019,321.0,Payment cards,value
+ATM,ATM card,DEC 2019,3626.0,Payment cards,value
+ATM,Debit card,DEC 2019,9689.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2020,5945.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2020,355.0,Payment cards,value
+ATM,ATM card,JAN 2020,3814.0,Payment cards,value
+ATM,Debit card,JAN 2020,8741.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2020,5126.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2020,278.0,Payment cards,value
+ATM,ATM card,FEB 2020,3058.0,Payment cards,value
+ATM,Debit card,FEB 2020,8643.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2020,4528.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2020,248.0,Payment cards,value
+ATM,ATM card,MAR 2020,3369.0,Payment cards,value
+ATM,Debit card,MAR 2020,8413.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2020,2663.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2020,141.0,Payment cards,value
+ATM,ATM card,APR 2020,2577.0,Payment cards,value
+ATM,Debit card,APR 2020,6383.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2020,3383.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2020,184.0,Payment cards,value
+ATM,ATM card,MAY 2020,4141.0,Payment cards,value
+ATM,Debit card,MAY 2020,7406.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2020,4326.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2020,210.0,Payment cards,value
+ATM,ATM card,JUN 2020,4538.0,Payment cards,value
+ATM,Debit card,JUN 2020,7710.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2020,4399.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2020,228.0,Payment cards,value
+ATM,ATM card,JUL 2020,4424.0,Payment cards,value
+ATM,Debit card,JUL 2020,7785.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2020,4469.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2020,234.0,Payment cards,value
+ATM,ATM card,AUG 2020,2985.0,Payment cards,value
+ATM,Debit card,AUG 2020,7517.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2020,4253.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2020,218.0,Payment cards,value
+ATM,ATM card,SEP 2020,2822.0,Payment cards,value
+ATM,Debit card,SEP 2020,7372.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2020,4338.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2020,219.0,Payment cards,value
+ATM,ATM card,OCT 2020,2718.0,Payment cards,value
+ATM,Debit card,OCT 2020,7579.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2020,4674.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2020,224.0,Payment cards,value
+ATM,ATM card,NOV 2020,2943.0,Payment cards,value
+ATM,Debit card,NOV 2020,7369.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2020,5530.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2020,244.0,Payment cards,value
+ATM,ATM card,DEC 2020,2750.0,Payment cards,value
+ATM,Debit card,DEC 2020,8223.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2021,4028.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2021,215.0,Payment cards,value
+ATM,ATM card,JAN 2021,3529.0,Payment cards,value
+ATM,Debit card,JAN 2021,6915.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2021,3899.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2021,203.0,Payment cards,value
+ATM,ATM card,FEB 2021,3392.0,Payment cards,value
+ATM,Debit card,FEB 2021,7076.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2021,4726.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2021,234.0,Payment cards,value
+ATM,ATM card,MAR 2021,3891.0,Payment cards,value
+ATM,Debit card,MAR 2021,7736.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2021,3874.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2021,213.0,Payment cards,value
+ATM,ATM card,APR 2021,2943.0,Payment cards,value
+ATM,Debit card,APR 2021,6688.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2021,3667.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2021,216.0,Payment cards,value
+ATM,ATM card,MAY 2021,2871.0,Payment cards,value
+ATM,Debit card,MAY 2021,6732.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2021,3986.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2021,215.0,Payment cards,value
+ATM,ATM card,JUN 2021,2800.0,Payment cards,value
+ATM,Debit card,JUN 2021,6475.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2021,3421.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2021,208.0,Payment cards,value
+ATM,ATM card,JUL 2021,2569.0,Payment cards,value
+ATM,Debit card,JUL 2021,5976.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2021,3266.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2021,200.0,Payment cards,value
+ATM,ATM card,AUG 2021,2548.0,Payment cards,value
+ATM,Debit card,AUG 2021,5766.0,Payment cards,value
+EFTPOS Terminal,Credit card,SEP 2021,4002.0,Payment cards,value
+EFTPOS Terminal,Debit card,SEP 2021,228.0,Payment cards,value
+ATM,ATM card,SEP 2021,2679.0,Payment cards,value
+ATM,Debit card,SEP 2021,5953.0,Payment cards,value
+EFTPOS Terminal,Credit card,OCT 2021,4403.0,Payment cards,value
+EFTPOS Terminal,Debit card,OCT 2021,230.0,Payment cards,value
+ATM,ATM card,OCT 2021,2674.0,Payment cards,value
+ATM,Debit card,OCT 2021,6270.0,Payment cards,value
+EFTPOS Terminal,Credit card,NOV 2021,4910.0,Payment cards,value
+EFTPOS Terminal,Debit card,NOV 2021,230.0,Payment cards,value
+ATM,ATM card,NOV 2021,2805.0,Payment cards,value
+ATM,Debit card,NOV 2021,5863.0,Payment cards,value
+EFTPOS Terminal,Credit card,DEC 2021,5878.0,Payment cards,value
+EFTPOS Terminal,Debit card,DEC 2021,263.0,Payment cards,value
+ATM,ATM card,DEC 2021,6320.0,Payment cards,value
+ATM,Debit card,DEC 2021,6979.0,Payment cards,value
+EFTPOS Terminal,Credit card,JAN 2022,4891.0,Payment cards,value
+EFTPOS Terminal,Debit card,JAN 2022,243.0,Payment cards,value
+ATM,ATM card,JAN 2022,3721.0,Payment cards,value
+ATM,Debit card,JAN 2022,6222.0,Payment cards,value
+EFTPOS Terminal,Credit card,FEB 2022,4541.0,Payment cards,value
+EFTPOS Terminal,Debit card,FEB 2022,216.0,Payment cards,value
+ATM,ATM card,FEB 2022,3072.0,Payment cards,value
+ATM,Debit card,FEB 2022,5599.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAR 2022,5186.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAR 2022,249.0,Payment cards,value
+ATM,ATM card,MAR 2022,3502.0,Payment cards,value
+ATM,Debit card,MAR 2022,6285.0,Payment cards,value
+EFTPOS Terminal,Credit card,APR 2022,5002.0,Payment cards,value
+EFTPOS Terminal,Debit card,APR 2022,234.0,Payment cards,value
+ATM,ATM card,APR 2022,2997.0,Payment cards,value
+ATM,Debit card,APR 2022,6045.0,Payment cards,value
+EFTPOS Terminal,Credit card,MAY 2022,5421.0,Payment cards,value
+EFTPOS Terminal,Debit card,MAY 2022,249.0,Payment cards,value
+ATM,ATM card,MAY 2022,3050.0,Payment cards,value
+ATM,Debit card,MAY 2022,6122.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUN 2022,5445.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUN 2022,256.0,Payment cards,value
+ATM,ATM card,JUN 2022,2947.0,Payment cards,value
+ATM,Debit card,JUN 2022,5983.0,Payment cards,value
+EFTPOS Terminal,Credit card,JUL 2022,5449.0,Payment cards,value
+EFTPOS Terminal,Debit card,JUL 2022,270.0,Payment cards,value
+ATM,ATM card,JUL 2022,2644.0,Payment cards,value
+ATM,Debit card,JUL 2022,5969.0,Payment cards,value
+EFTPOS Terminal,Credit card,AUG 2022,5626.0,Payment cards,value
+EFTPOS Terminal,Debit card,AUG 2022,211.0,Payment cards,value
+ATM,ATM card,AUG 2022,2741.0,Payment cards,value
+ATM,Debit card,AUG 2022,4581.0,Payment cards,value
