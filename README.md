@@ -16,11 +16,8 @@ This is very challange to coding for reverse enginerering for getting data line 
 |--------------------------------|---------------|----------------------|
 | Vol. of Plastic card usage     |    Monthly    | Jan 2020 - Dec 2023  |
 | Value. of Plastic card usage   |    Monthly    | Jan 2020 - Dec 2023  |
-| Payment Cards on ATM & POS     |    Monthly    | Jan 2020 - Dec 2023  |
 | Mobile, internet banking       |    Monthly    | Jan 2020 - Dec 2023  |
-| e-Money                        |    Monthly    | Jan 2020 - Dec 2023  |
 | promptpay                      |    Monthly    | Jan 2020 - Dec 2023  |
-
 
 ## Sample of Data
 Vol. of Txn by Payment System/ <br>
@@ -31,24 +28,27 @@ Vol. of Txn by Payment System/ <br>
 We will use python code with jupytor notebooks to write the code for all tasks, we mainly use Pandas and numpy for these task.<br>
 I have define the data into 4 groups (tables)<br>
 
-1.[Volumne and Value of Plastic card usage](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Pastic_cards_usage.ipynb)<br>
-- we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  UsageType, M_Value<br>
-2.[codePayment Cards on ATM & POS](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Payment_cards.ipynb)<br>
-- we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  UsageType, M_Value<br>
-3.[Mobile, internet banking](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Mobile_internet_banking.ipynb)<br>
-- we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  SystemType, M_Value<br>
-4.[Promptpay](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_PromptPay.ipynb)<br>
-- we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType, M_Value<br>
+[1.Volumne and Value of Plastic card usage](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Pastic_cards_usage.ipynb)<br>
+  we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  UsageType, M_Value<br>
+[2.Mobile, internet banking](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Mobile_internet_banking.ipynb)<br>
+  we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  SystemType, M_Value<br>
+[3.Promptpay](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_PromptPay.ipynb)<br>
+  we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType, M_Value<br>
 <br>
 As of all transaction give both in volumes and values, so we will keep this indicator for each metrics as MeasureName (volume,value)<br>
 <br>
 
-### Output :
+### Output data:
 The above perform data wrangling and tranforming from excel reporting format reverse back to tabular format which save output in .csv file at directory Clean.<br>
 [Pastic_cards_usage_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Pastic_cards_usage_Clean.csv)<br>
-[Payment_cards_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Payment_cards_Clean.csv)<br>
 [Mobile_internet_banking_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Mobile_internet_banking_Clean.csv)<br>
 [PromptPay_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/PromptPay_Clean.csv)<br>
+
+### Simple Static Visualization by Matplotlib:
+[matplotlib](https://github.com/chayaphon/Data_Wrangling/tree/main/Visualization/matplotlib.ipynb)<br>
+![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output1.png)
+![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output2.png)
+![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output3.png)
 
 <br>
 ## License
