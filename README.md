@@ -1,12 +1,8 @@
 # Description
-This challenge is to clean and reverse data format fron reporting format back to tabular structure format.<br>
-And so it's easy to use for various of visualization and other general purpose.<br>
-This excercise will use data from BOT (Bank of Thailand) public reporting data.<br>
+This challenge focuses on converting data from a reporting format back to a tabular structure format to facilitate ease of use for visualization and other general purposes. It utilizes public reporting data from the Bank of Thailand (BOT).<br>
 
 ## Objective
-Sometime we need to enquiry data from web scraping or various source of data from internet, and many of them may be came with different format or most of them came with reporting format.<br>
-Like in the sample data we get from BOT as execl reporting format which are in pivot structure and with hirachy and subtotoal and total line.<br>
-This is very challange to coding for reverse enginerering for getting data line by line with a proper sequence and grainulity.<br>
+Often, data needs to be sourced from web scraping or various online sources, which may present in diverse formats, predominantly in a reporting layout. For instance, the sample data obtained from BOT are in an Excel reporting format, characterized by a pivot structure with hierarchy, subtotals, and total lines. Transforming this data back into a line-by-line format with proper sequencing and granularity poses a significant coding challenge.<br>
 
 ## Datasource
 [Data](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/Sources/Data.xlsx)<br>
@@ -25,27 +21,24 @@ Vol. of Txn by Payment System/ <br>
 
 ## Task
 ### Data Wrangling and Tranformation :
-We will use python code with jupytor notebooks to write the code for all tasks, we mainly use Pandas and numpy for these task.<br>
-I have define the data into 4 groups (tables)<br>
+Using Python code within Jupyter Notebooks, we leverage Pandas and NumPy for data manipulation. The data is categorized into four groups (tables) as follows:<br>
 
-[1.Volumne and Value of Plastic card usage](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Pastic_cards_usage.ipynb)<br>
-  we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  UsageType, M_Value<br>
-[2.Mobile, internet banking](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Mobile_internet_banking.ipynb)<br>
-  we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType,  SystemType, M_Value<br>
-[3.Promptpay](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_PromptPay.ipynb)<br>
-  we are going to categorize data into : MonthYear, MeasureName, ChannelType, TransType, M_Value<br>
+1.Volume and Value of Plastic Card Usage - Categories: MonthYear, MeasureName, ChannelType, TransType, UsageType, M_Value. [View Code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Pastic_cards_usage.ipynb)<br>
+2.Mobile & Internet Banking - Categories: MonthYear, MeasureName, ChannelType, TransType, SystemType, M_Value. [View Code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Mobile_internet_banking.ipynb)<br>
+3.PromptPay - Categories: MonthYear, MeasureName, ChannelType, TransType, M_Value. [View Code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_PromptPay.ipynb)<br>
 <br>
-As of all transaction give both in volumes and values, so we will keep this indicator for each metrics as MeasureName (volume,value)<br>
+Each transaction is identified either by volume or value under the MeasureName category.<br>
 <br>
 
 ### Output data:
-The above perform data wrangling and tranforming from excel reporting format reverse back to tabular format which save output in .csv file at directory Clean.<br>
+The data wrangling process transforms data from an Excel reporting format back to a tabular format, saving the output as .csv files in the Clean directory.<br>
 [Pastic_cards_usage_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Pastic_cards_usage_Clean.csv)<br>
 [Mobile_internet_banking_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Mobile_internet_banking_Clean.csv)<br>
 [PromptPay_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/PromptPay_Clean.csv)<br>
 
 ### Simple Static Visualization by Matplotlib:
-[matplotlib coding](https://github.com/chayaphon/Data_Wrangling/tree/main/Visualization/matplotlib.ipynb)<br><br>
+Visualizations are created using Matplotlib, as shown in the following notebooks and output images.<br>
+[Matplotlib Coding Notebook](https://github.com/chayaphon/Data_Wrangling/tree/main/Visualization/matplotlib.ipynb)<br><br>
 ![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output1.png)<br>
 ![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output2.png)<br>
 ![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output3.png)<br>
