@@ -48,6 +48,6 @@ Visualizations are created using Matplotlib, as shown in the following notebooks
 ### License
 [Educational Purpose License](https://github.com/chayaphon/Data_Wrangling/blob/main/LICENSE.md)
 
-## Written By
+### Written By
 - **Name**: Chayaphon Sornthananon
 - **Email**: s_chayaphon@outlook.com
