@@ -9,8 +9,7 @@ Like in the sample data we get from BOT as execl reporting format which are in p
 This is very challange to coding for reverse enginerering for getting data line by line with a proper sequence and grainulity.<br>
 
 ## Datasource
-
-[Educational Purpose License](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/Sources/Data.xlsx)<br>
+[Data](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/Sources/Data.xlsx)<br>
 [Source from Bank of Thailand](https://www.bot.or.th/en/statistics/payment.html)<br>
 
 | Report                         | Level of Data | Range                |
@@ -28,26 +27,27 @@ Vol. of Txn by Payment System/ <br>
 ![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/ss_sample.png)
 
 ## Task
-We will use python code with jupytor notebooks to write the code for all tasks, we mainly use Pandas and numpy for these task.
-I have define the data into 5 groups (tables)
-1.Volumne and Value of Plastic card usage [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Pastic_cards_usage.ipynb)
-2.Payment Cards on ATM & POS [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Payment_cards.ipynb)
-3.Mobile, internet banking [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Mobile_internet_banking.ipynb)
-4.e-Money [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_e-Money.ipynb)
-5.promptpay[code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_PromptPay.ipynb)
+We will use python code with jupytor notebooks to write the code for all tasks, we mainly use Pandas and numpy for these task.<br>
+I have define the data into 5 groups (tables)<br>
+1.Volumne and Value of Plastic card usage [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Pastic_cards_usage.ipynb)<br>
+2.Payment Cards on ATM & POS [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Payment_cards.ipynb)<br>
+3.Mobile, internet banking [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_Mobile_internet_banking.ipynb)<br>
+4.e-Money [code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_e-Money.ipynb)<br>
+5.promptpay[code](https://github.com/chayaphon/Data_Wrangling/tree/main/Wrangling_Code/data_cleansing_PromptPay.ipynb)<br>
+<br>
 
-The above perform data wrangling and tranforming from excel reporting format reverse back to tabular format which save output in .csv file at directory Clean
-[Pastic_cards_usage_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Pastic_cards_usage_Clean.csv)
-[Payment_cards_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Payment_cards_Clean.csv)
-[Mobile_internet_banking_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Mobile_internet_banking_Clean.csv)
-[e-Money_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/e-Money_Clean.csv)
-[PromptPay_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/PromptPay_Clean.csv)
+The above perform data wrangling and tranforming from excel reporting format reverse back to tabular format which save output in .csv file at directory Clean.<br>
+[Pastic_cards_usage_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Pastic_cards_usage_Clean.csv)<br>
+[Payment_cards_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Payment_cards_Clean.csv)<br>
+[Mobile_internet_banking_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/Mobile_internet_banking_Clean.csv)<br>
+[e-Money_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/e-Money_Clean.csv)<br>
+[PromptPay_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/PromptPay_Clean.csv)<br>
 
-
+<br>
 ## License
 [Educational Purpose License](https://github.com/chayaphon/Data_Wrangling/blob/main/LICENSE.md)
 
-
+<br>
 ## Written By
 - **Name**: Chayaphon Sornthananon
 - **Email**: s_chayaphon@outlook.com
