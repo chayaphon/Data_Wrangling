@@ -45,16 +45,16 @@ The above perform data wrangling and tranforming from excel reporting format rev
 [PromptPay_Clean](https://github.com/chayaphon/Data_Wrangling/tree/main/Clean/PromptPay_Clean.csv)<br>
 
 ### Simple Static Visualization by Matplotlib:
-[matplotlib](https://github.com/chayaphon/Data_Wrangling/tree/main/Visualization/matplotlib.ipynb)<br>
-![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output1.png)
-![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output2.png)
-![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output3.png)
+[matplotlib coding](https://github.com/chayaphon/Data_Wrangling/tree/main/Visualization/matplotlib.ipynb)<br><br>
+![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output1.png)<br>
+![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output2.png)<br>
+![Image](https://raw.githubusercontent.com/chayaphon/Data_Wrangling/main/img/output3.png)<br>
 
-<br>
-## License
+<hr>
+
+### License
 [Educational Purpose License](https://github.com/chayaphon/Data_Wrangling/blob/main/LICENSE.md)
 
-<br>
 ## Written By
 - **Name**: Chayaphon Sornthananon
 - **Email**: s_chayaphon@outlook.com
